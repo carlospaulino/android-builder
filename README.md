@@ -1,5 +1,6 @@
 # Docker Image for Android Projects
 ---
+[![](https://images.microbadger.com/badges/image/carlospaulino/android-builder.svg)](https://microbadger.com/images/carlospaulino/android-builder "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/carlospaulino/android-builder.svg)](https://microbadger.com/images/carlospaulino/android-builder "Get your own version badge on microbadger.com")
 
 Simple docker image that contains all the necessary dependencies to build a modern Android project. It uses [`sdkmanager`](https://developer.android.com/studio/command-line/sdkmanager.html) instead of the deprecated [`android`](http://tools.android.com/recent/androidsdktoolsrevision2530feb2017) tool.
 
@@ -12,7 +13,7 @@ Simple docker image that contains all the necessary dependencies to build a mode
 * Google Play Services
 * Latest Build and Platform Tools
 
-See [android-packages](./android-packages) for more Android dependencies.
+See [android-packages](./android-packages) for the full list of Android dependencies.
 
 # Usage
 

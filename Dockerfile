@@ -1,9 +1,10 @@
 FROM ubuntu:16.04
 
-LABEL version="1.0" \
+LABEL version="1.0.1" \
   maintainer="Carlos Paulino" \
   maintainer.email="cpaulino@gmail.com" \
-  description="Android Build Docker image"
+  description="Android Build Docker image" \
+  repository="https://github.com/carlospaulino/android-builder"
 
 # setup deps & java
 RUN apt-get update \
