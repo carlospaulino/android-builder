@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL version="1.0.1" \
+LABEL version="1.0.3" \
   maintainer="Carlos Paulino" \
   maintainer.email="cpaulino@gmail.com" \
   description="Android Build Docker image" \

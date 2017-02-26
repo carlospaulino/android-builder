@@ -13,8 +13,8 @@ build-tools;24.0.1
 build-tools;24.0.0
 extras;android;m2repository
 extras;google;m2repository
-extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.0-beta4
-extras;m2repository;com;android;support;constraint;constraint-layout;1.0.0-beta4
+extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.0
+extras;m2repository;com;android;support;constraint;constraint-layout;1.0.0
 extras;google;google_play_services
 ndk-bundle
 cmake;3.6.3155560
